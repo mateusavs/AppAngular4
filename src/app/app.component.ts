@@ -1,8 +1,8 @@
 import { Component } from '@angular/core';
-import {MenuComponent} from './menu/menu.component';
+import { MenuComponent } from './menu/menu.component';
 
 @Component({
   selector: 'my-app',
   template: '<menu></menu>',
 })
-export class AppComponent  { name = 'Angular'; }
+export class AppComponent  { name = 'Turma 30SCJ'; }

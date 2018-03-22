@@ -1,14 +1,11 @@
-import { Component } from "@angular/core";
+import { Component } from '@angular/core';
 
-@Component({
-    moduleId : module.id,
-    selector : 'menu',
-    templateUrl : "views/menu.component.html"
-    
+@Component ({
+    moduleId: module.id,
+    selector: 'menu',
+    templateUrl: 'views/menu.component.html'
 })
-export class MenuComponent{
-
-titulo_empresa : String = "Fiap";
-titulo_principal : String = "Gestão de eventos";
-titulo_home : String = "Home"
-} 
+export class MenuComponent {
+    titulo_empresa: string = "Fiap - 30SCJ";
+    titulo_principal: string = "Gestão de Eventos";
+ }
