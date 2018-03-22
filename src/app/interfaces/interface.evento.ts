@@ -1,5 +1,6 @@
 export interface IEvento {
-    descricao: string;
+    descricao: string; 
     data: string;
     preco: number;
-}
+   } 
+   

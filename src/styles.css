@@ -3,11 +3,9 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 250%;
 }
-
 .margem {
   margin-top: 50px;
-}
-
-.selecionado {
+ } 
+ .selecionado {
   font-weight: bold;
-}
+ } 
